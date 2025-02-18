@@ -10,7 +10,7 @@ body {
 .header {
   color: white;
   height: 677px;
-  background-image: url("../images/header.jfif"),
+  background-image: url("../public//images/header.jfif"),
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   background-repeat: no-repeat;
   background-position: center;
